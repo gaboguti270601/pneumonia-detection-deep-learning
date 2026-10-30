@@ -152,7 +152,7 @@ pneumonia-detection-deep-learning/
 Clone the repository:
 
 ```bash
-git clone https://github.com/USERNAME/pneumonia-detection-deep-learning.git
+git clone https://github.com/gaboguti270601/pneumonia-detection-deep-learning.git
 cd pneumonia-detection-deep-learning
 ```
 
